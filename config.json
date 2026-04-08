@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "passwordHash": "",
+  "ozon": {
+    "ozon_dashboard": false,
+    "ozon_products": false,
+    "ozon_prices": false,
+    "ozon_fbo": false,
+    "ozon_fbs": false,
+    "ozon_finances": false,
+    "ozon_analytics": false,
+    "ozon_crm": false,
+    "ozon_promotion": false,
+    "ozon_bank": false,
+    "ozon_messenger": true,
+    "ozon_reviews": false,
+    "ozon_returns": true,
+    "ozon_settings": false,
+    "ozon_subscriptions": false,
+    "ozon_search": false
+  },
+  "wb": {
+    "wb_growth": false,
+    "wb_products": false,
+    "wb_orders": false,
+    "wb_analytics": false,
+    "wb_promotion": false,
+    "wb_finances": false,
+    "wb_chat": true,
+    "wb_feedbacks": false,
+    "wb_returns": true,
+    "wb_main": false,
+    "wb_news": false,
+    "wb_services": false,
+    "wb_settings": false,
+    "wb_search": false,
+    "wb_support": false,
+    "wb_profile": false
+  }
+}
